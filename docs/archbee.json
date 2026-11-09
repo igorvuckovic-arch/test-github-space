@@ -1,0 +1,18 @@
+{
+  "docsPath": "docs/",
+  "structure": {
+    "assets": "assets/",
+    "docsTree": [
+      {
+        "path": "6kMPTDQ4-gQb2YptgeRKh.mdx",
+        "children": []
+      },
+      {
+        "path": "alpha-page.mdx",
+        "children": []
+      }
+    ]
+  },
+  "shadowDocs": [],
+  "autoMerge": false
+}
